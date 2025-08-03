@@ -1,11 +1,13 @@
-# CRM & Marketing Automation Workflows
+# 📈 CRM & Marketing Automation Workflows
 
-This folder contains curated n8n automation workflows tailored for:
-- CRM integration (HubSpot, Pipedrive, Zoho)
-- Email campaign automation
-- Lead generation and scoring
-- Contact tagging and segmentation
+Workflow automasi untuk integrasi CRM, kampanye email marketing, dan manajemen prospek.
 
-🧩 Ideal for marketing agencies, solopreneurs, and CRM consultants in Indonesia.
+## 🔧 Fitur Utama:
+- Integrasi dengan HubSpot, Pipedrive, Zoho
+- Email sequence automation (Mailchimp, Brevo)
+- Lead scoring & tagging otomatis
+- CRM update via webhook/API
 
-Source: PromptLite, Custom Contributions, Public Repos.
+🧩 Cocok untuk: agensi marketing, pelaku UMKM, dan tim sales.
+
+🗂️ Sumber: PromptLite Premium Collection & curated public workflows
